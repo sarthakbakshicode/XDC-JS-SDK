@@ -1,7 +1,7 @@
 Introduction (Please note this is still under the works)
 
 
-Welcome to the official XDC Network SDK documentation. This documentation will guide you through the installation, configuration, and usage of the XDC SDK.
+Welcome to the  XDC Network SDK documentation. This documentation will guide you through the installation, configuration, and usage of the XDC SDK.
 
 Prerequisites
 Before you can start using the XDC SDK, you need to make sure that you have the following prerequisites installed on your machine:
